@@ -1,1 +1,2 @@
-MY first reamdme
+#!/bin/bash
+My first readme
